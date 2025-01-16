@@ -147,6 +147,7 @@
 .gray{
     filter: grayscale();
 }
+/*  */
 
 
 /* responsive media query */
@@ -167,7 +168,11 @@
         gap: 24px;
     }
 }
-
+/* features will enjoy */
+#fearures-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
 
 /* medium device */
 @media screen and (min-width:576px) and (max-width:992px) {
